@@ -1,0 +1,8 @@
+Project Goals:
+<<<<<<< HEAD
+1. Learn the basics of Python programming.
+=======
+1. Master the fundamentals of the Python language.
+>>>>>>> main
+2. Understand core Git version control.
+3. Build a simple application.
